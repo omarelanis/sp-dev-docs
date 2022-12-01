@@ -37,7 +37,7 @@ Depending on the user, you may want to grant them either access to edit or read.
 
 The permission roles map to [simplified standard SharePoint permission groups](/sharepoint/modern-experience-sharing-permissions):
 - Members
-- Owners
+- Visitors
 
 ### Using custom-defined roles to grant access
 In advanced scenarios where you need to specify a custom-defined permission role, you can do so in the flow action by entering a custom value for the *Roles* property in the following format:
